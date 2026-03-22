@@ -1,12 +1,7 @@
-import React from 'react'
+import DatingApp from './dating-app.jsx'
 
 function App() {
-  return (
-    <div>
-      <h1>Sparks Dating App</h1>
-      <p>Welcome to Sparks by Lumira</p>
-    </div>
-  )
+  return <DatingApp />
 }
 
 export default App
