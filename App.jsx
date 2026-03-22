@@ -1,4 +1,4 @@
-import DatingApp from './dating-app.jsx'
+import DatingApp from './dating_app.jsx'
 
 function App() {
   return <DatingApp />
